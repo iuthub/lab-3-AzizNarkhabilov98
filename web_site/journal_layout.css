@@ -1,0 +1,30 @@
+body {
+	border: 10px solid white;
+	}
+.first {
+	background: #A8F0F0;
+	text-align: right;
+}
+#id {
+	font-size: 14pt;
+}
+
+.text {
+	border: 4px solid #C2E9E9;
+	height: 170px;
+	background-color:#E8FBFB; 
+
+}
+
+.object {
+	border: 4px solid #C2E9E9;
+	height: 200px;
+	background-color:#E8FBFB;
+}
+
+
+#date {
+	border-bottom: 2px dashed blue;
+	
+}
+
